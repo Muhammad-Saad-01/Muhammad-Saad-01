@@ -16,7 +16,7 @@ Have a look at my repositories and let's get in touch 😉  </br>
   <a href="https://twitter.com/MuhammadSa3d01"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-saad-01"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/muhammadsaad01"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
-  <a href="mailto:me@muhammad-saad.me"><img src="https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@muhammad-saad.me"></a>
+  <a href="mailto:contact@muhammad-saad.net"><img src="https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@muhammad-saad.me"></a>
  <!-- <a href="https://medium.com/@muhammadsaad01"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@muhammadsaad01"></a> 
   <a href="https://dev.to/muhammadsaad01"> <img src="https://img.shields.io/badge/-DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Muhammad Saad's DEV Profile"></a> -->
 </p>
