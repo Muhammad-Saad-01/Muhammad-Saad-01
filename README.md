@@ -8,7 +8,6 @@ Some technologies I enjoy working with include Javascript, Python, C++, Java, No
 Have a look at my repositories and let's get in touch 😉  </br>
 </p>
 
-<p align="center" ><a href="https://github-readme-stats.vercel.app/api?username=muhammad-saad-01&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-saad-01&show_icons=true"></a></p>
 <p align="center">Find out more about me & feel free to connect 👇🏻 </br></p>
 
 
